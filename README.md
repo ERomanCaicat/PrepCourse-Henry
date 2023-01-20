@@ -1,1 +1,1 @@
-Este proyecto es de como crear un repositorio en github y clonarlo en mi pc
+Este proyecto es de como crear un repositorio en github y clonarlo desde github a mi pc, practicando por 3ra vez , 
