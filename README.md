@@ -6,5 +6,7 @@ subiendo modificaciones con git push
 tener cuidado con credenciales antiguas
 preferible eliminar todas en windows
 control /name Microsoft.CredentialManager
-ultima prueba 
+ultima prueba : primero se agrega el archivo
+y de ahi commit -m
+despues git push origin main
 
