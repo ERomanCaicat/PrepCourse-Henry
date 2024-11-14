@@ -6,4 +6,5 @@ subiendo modificaciones con git push
 tener cuidado con credenciales antiguas
 preferible eliminar todas en windows
 control /name Microsoft.CredentialManager
+ultima prueba 
 
